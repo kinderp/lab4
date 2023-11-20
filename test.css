@@ -1,0 +1,22 @@
+#main {
+    background-color: black;
+}
+.row{
+    display: flex;
+}
+
+.row div{
+    margin: 1em;
+    text-align: center;
+    flex: 1;
+    background-color: gray;
+}
+
+.cell img {
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    max-width: 99%;
+    max-height: 99%;
+}
